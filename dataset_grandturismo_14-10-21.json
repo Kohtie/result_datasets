@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "grand-turismo-spreadsheet",
+  "private_key_id": "377e6ea0d4357ef9732bbb93f3fb6e592a230806",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC10cu6rcDm35Tm\nfoKzrqMb9Zma5t5PthWdJ4rzlCmhXY0aHGQNriE1pAB1bIb31b+lwjEayGkwk+C8\nIG59g1gtWhyoKBFI0HiWnOkh4d/Pmu/zkYQ9bsT6f0VfWjomCh0OBoY6IeOGd/Gu\n5r462BouMQfghdvu9wDkxy/biZHGkMSHqt6JLgUsUkXF3rmpZO/uuzHMjJDkA4fJ\napNnzt9IAgN0GOvaqun0vAtOqKQIzMYySByJ/fOIgpeA6jpv+ly/nSaBIn1MRBmX\n3PaXdIhgKyGGDf1zecs2GmJEol05mzM/n9iujxupRPB0dft+ULJiRflhOmvO8NwN\nj4cr1J8LAgMBAAECggEACkGwfXJpzFxWeP4v/1TdrKkZJizZ46NA6uGdLApyosC1\nQgDSABePlggPYpBhuL9dFUu0G2+sx2nAJrypnvj203Ae57mC6Bmig9SMLjYguwRh\nftr5m8GQ6RSe5Dchyp2NcAocLlFVFXPUtWoc1xLzvyFS8W57rqpOaZl28Kp9B7dw\nlrR01HS9OHLupgDm3RNRLMiZZWgXvg7drUMPafNXzLcZI782HAnEr6aHV1jaB6Zz\n2NEHrKoxVyh83B46O/w/7dKnaHYQ2lUvvWZeezjbUnMF9ROGHo9vUgu7F08CObC/\nX5dK+7Ab8M8ITwEIESR7AyDxEde4UPyNQMaFb9TVsQKBgQDbBiwruJahcgzoJWPO\npmjGbvZ0eUNQNf8w1cL5zvCnvaOPevOrYwwZxBvchcbAbey8qBX2pEAxT+jCvFWE\naxlPLOR1cjgGSzmMMSDwKYU6E6+qjrgoEJ15PjT/8SUkt0DE3u51Bnt7sqEq6hvH\noi7BSJqmQWqJuT/yvFr0OXw8WQKBgQDUg7UoVIiX7PKuGCrPdB6PSGNMhjeD+cxo\nZIr0cj74UMOPrpz8qKeOp6TA5qT/D4UnKH/Oq2BqZMqUHrt2yIhsx8rRY0sKVJ4b\n79UrXZHJdwtUD0LHC+tazGgKYb8ssGc8tJJ3UtRKhTe9pNmKMl/WHySPPoCWEtxz\nOzNzjdn6AwKBgQDHSHB8P3He55TSzOJpLoR6uI/KHmOe4eKVnonPHfldxnDBpg97\ny51A/GyVU6spf1s9tHp3da9qrtiMByyQVZorrh8YtZpAL8XmxvS/UCgGVc8qEr2A\nxs1hebZjghhXtd1aw7SYChPk0v1NvMEV/X0pJFSCHVdAhKuowrTHLl7Z0QKBgF8E\nPF053pC++opod8uliXxayzsNz4iMiZ4rRg2hfxIbWjTFx58X8ULRJdKxzRfVYp1t\neCd5bHRleEXdr8eeRZENi1svX//QcZjgFJl9Do/bUA9Xe23voF1Kg0IRDh73CFGW\nEt6TBCQFiDScnj8x4rOj3P7G3Us8R6Cl2Y1S4SDtAoGAY0YfnQ0O0IohXfJTj0uF\nQstjCEx1RcoLwJpBnbjKbrMSBS39cj3xo0JoDvDpZFNyql+mgjGdhKBE9LnhIZkD\n4GFF7f/CAp9pPmhRzkCQe/r32dYQ301DH+05wkJX65TplD387K5MxsIZrViHeEGQ\nHeTvIu9GJKc4pkDqFxAlBF4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "grandturismo@grand-turismo-spreadsheet.iam.gserviceaccount.com",
+  "client_id": "100325125772593171740",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/grandturismo%40grand-turismo-spreadsheet.iam.gserviceaccount.com"
+}
